@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,118,stage 4 triple negative breast cancer treatment,0.81520376556332,0.6060826724712078,0.5001069518716579,colbert_v1,222,220
+qcred,118,stage 4 triple negative breast cancer treatment,0.5031722051668632,0.8835341365461847,0.8835341365461847,colbert_v1,222,220
+qread,118,stage 4 triple negative breast cancer treatment,0.9227128302108009,0.8766329152658645,0.42570281124497994,colbert_v1,222,220

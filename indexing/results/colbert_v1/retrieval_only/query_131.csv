@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,131,exercises for better posture,0.8045363078998891,0.2650666370010642,0.2830459770114945,colbert_v1,84,72
+qcred,131,exercises for better posture,0.4669036775772037,0.4091771563517098,0.4373712539039143,colbert_v1,84,72
+qread,131,exercises for better posture,0.8433575915491295,0.27442224004331367,0.2508333333333335,colbert_v1,84,72

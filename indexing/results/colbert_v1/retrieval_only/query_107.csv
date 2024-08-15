@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,107,medication adhd anxiety,0.21661344306085178,0.15126863875280708,0.1433267587113741,colbert_v1,128,128
+qcred,107,medication adhd anxiety,0.7689366041757585,0.9338921040483378,0.9721177102929327,colbert_v1,128,128
+qread,107,medication adhd anxiety,1.0,0.49351192925072335,0.3363265306122444,colbert_v1,128,128

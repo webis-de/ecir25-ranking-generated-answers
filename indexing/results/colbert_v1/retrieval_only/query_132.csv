@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,132,headpats scalp psoriasis,0.8106083306620323,0.467655084168444,0.5329723119923138,colbert_v1,124,124
+qcred,132,headpats scalp psoriasis,0.6283236143484608,0.8337590578317224,0.8522035549062578,colbert_v1,124,124
+qread,132,headpats scalp psoriasis,0.9032521000738538,0.5795239960054148,0.599498051647844,colbert_v1,124,124

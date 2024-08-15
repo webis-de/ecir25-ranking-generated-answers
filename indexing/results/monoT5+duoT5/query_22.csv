@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,22,my risk for developing type 2 diabetes,0.7152107468751323,0.06134969325153374,0.06134969325153374,duoT5,249,10
+qcred,22,my risk for developing type 2 diabetes,0.5529961733283654,0.036795681937862035,0.03767164904605663,duoT5,249,10
+qread,22,my risk for developing type 2 diabetes,0.6363350778447391,0.045454545454545456,0.045454545454545456,duoT5,249,10

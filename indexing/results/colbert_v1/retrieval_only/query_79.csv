@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,79,Can I pass multiple sclerosis to other family members?,0.5237897692715977,0.2732198122639577,0.21444444444444452,colbert_v1,228,228
+qcred,79,Can I pass multiple sclerosis to other family members?,0.48458085818039504,0.9267018410920249,0.7780172413793077,colbert_v1,228,228
+qread,79,Can I pass multiple sclerosis to other family members?,0.4366192308009312,0.8559492409911603,0.8372968212026602,colbert_v1,228,228

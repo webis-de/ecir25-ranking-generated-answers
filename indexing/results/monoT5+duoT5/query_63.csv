@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,63,will multiple sclerosis affect my career ,1.0,0.04149377593360996,0.04149377593360996,duoT5,249,10
+qcred,63,will multiple sclerosis affect my career ,0.8532721558012798,0.04,0.04,duoT5,249,10
+qread,63,will multiple sclerosis affect my career ,1.0,0.04065040650406504,0.04065040650406504,duoT5,249,10

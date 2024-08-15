@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,86,Secondary progressive multiple sclerosis,0.6547078209831716,0.7013588942881483,0.7661715769823879,colbert_v1,132,132
+qcred,86,Secondary progressive multiple sclerosis,0.3526480726915428,0.8722120249423544,0.9187093742658006,colbert_v1,132,132
+qread,86,Secondary progressive multiple sclerosis,0.7413783767280564,0.7919734023698848,0.8558226955908834,colbert_v1,132,132

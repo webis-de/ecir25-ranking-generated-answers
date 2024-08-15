@@ -1,0 +1,312 @@
+<topics>
+	<topic>
+		<id>1</id>
+		<query> What are the most common chronic diseases? What effects do chronic diseases have for the society and the individual?
+		</query>
+		<narrative> I am a medical student and I read that chronic diseases are long lasting conditions with persistent effects which are becoming increasingly common. I want to know more about chronic diseases: the most common ones, and what effects they have for the society and the individual. </narrative>
+	</topic>
+	<topic>
+		<id>8</id>
+		<query> best apps daily activity exercise diabetes
+		</query>
+		<narrative> I’m a 15 year old with diabetes. I’m planning to join the school hiking club. What are the best apps to track my daily activity and exercises? </narrative>
+	</topic>
+	<topic>
+		<id>22</id>
+		<query> my risk for developing type 2 diabetes
+		</query>
+		<narrative> You read that the risk for developing type 2 diabetes is increasing due to environmental and lifestyle factors, and you want to know more about your own risk. </narrative>
+	</topic>
+	<topic>
+		<id>35</id>
+		<query> Is a ketogenic / keto diet suitable for people with diabetes?
+		</query>
+		<narrative> I have type 1 diabetes and wondered if a ketogenic diet / keto diet is suitable for people with diabetes? </narrative>
+	</topic>
+	<topic>
+		<id>45</id>
+		<query> Can diabetes be cured?
+		</query>
+		<narrative> I have type 2 diabetes. Will the diabetes eventually go away? Can it be cured? </narrative>
+	</topic>
+	<topic>
+		<id>51</id>
+		<query> What is holistic medicine and what does it include?
+		</query>
+		<narrative> I am a 45 year old who is very incontent with treatment for cancer. I feel the modern medical approaches do not consider psychological and other relevant aspects in treatment. Thus, I am interested in holistic medicine and want to find out what the related ideas are and what they include. </narrative>
+	</topic>
+	<topic>
+		<id>52</id>
+		<query> What are the most common mental health problems? How can I prevent or manage the most common mental health problems?
+		</query>
+		<narrative> You want to find out which ones are the most common mental health problems and how you can prevent or manage them. </narrative>
+	</topic>
+	<topic>
+		<id>53</id>
+		<query> what is psychotherapy?
+		</query>
+		<narrative> I am a person with mental health problems and interested in starting psychotherapy. I want to know more about psychotherapy. </narrative>
+	</topic>
+	<topic>
+		<id>54</id>
+		<query> What does multiple sclerosis diagnosis include? What does it change?
+		</query>
+		<narrative> A friend of mine has recently been diagnosed with MS, and I want to find out what an MS diagnosis includes, and what this means for my friend. </narrative>
+	</topic>
+	<topic>
+		<id>55</id>
+		<query> How to manage multiple sclerosis?
+		</query>
+		<narrative> I have recently been diagnosed with MS, and I am trying to learn about the management of this condition. What do I need to do? </narrative>
+	</topic>
+	<topic>
+		<id>57</id>
+		<query> multiple sclerosis stages phases
+		</query>
+		<narrative> I read that MS develops with several stages and includes phases of relapse. I want to know more about how this disease develops over time. </narrative>
+	</topic>
+	<topic>
+		<id>58</id>
+		<query> Risk to develop multiple sclerosis
+		</query>
+		<narrative> I have met a friend who has MS, and now I am interested to know the risk to develop MS. </narrative>
+	</topic>
+	<topic>
+		<id>59</id>
+		<query> long-term effects likelihood multiple sclerosis
+		</query>
+		<narrative> I am a 23-year-old graduate student in a university and thought I have a full lifetime ahead, but got diagnosed with MS recently. Will I be fairly healthy in 20 years, physically in a wheelchair, or cognitively impaired? </narrative>
+	</topic>
+	<topic>
+		<id>62</id>
+		<query> disclosing multiple sclerosis at work, how will colleagues react?
+		</query>
+		<narrative> Should I openly disclose that I have MS at work? How will my colleagues and managers react?
+		</narrative>
+	</topic>
+	<topic>
+		<id>63</id>
+		<query> Will multiple sclerosis affect my career?
+		</query>
+		<narrative> Will having MS change my career? </narrative>
+	</topic>
+	<topic>
+		<id>68</id>
+		<query> List of multiple sclerosis symptoms
+		</query>
+		<narrative> I am a 40 year old patient with MS, and I have very vage symptoms, including fatigue, brain fog, foot drop, difficulties passing urine, problems turning right. Are these related to MS or might I have another disease in addition? </narrative>
+	</topic>
+	<topic>
+		<id>72</id>
+		<query> Is the Covid-19 vaccine safe for people taking multiple sclerosis drugs?
+		</query>
+		<narrative> I got MS. Is the COVID-19 vaccine going to be safe for me given my drugs? </narrative>
+	</topic>
+	<topic>
+		<id>77</id>
+		<query> How do menopause symptoms relate to multiple sclerosis symptoms?
+		</query>
+		<narrative> I am a 55 year old woman with MS, and I wondered how my menopause symptoms relate to my MS symptoms?
+		</narrative>
+	</topic>
+	<topic>
+		<id>79</id>
+		<query> Can I pass multiple sclerosis to other family members?
+		</query>
+		<narrative> I am a person with MS. Will I pass my MS on my family? Will my child develop MS? </narrative>
+	</topic>
+	<topic>
+		<id>81</id>
+		<query> Can I work and study full-time with multiple sclerosis?
+		</query>
+		<narrative> I am a 15-year-old with MS. Will I be able to study/work full time? </narrative>
+	</topic>
+	<topic>
+		<id>83</id>
+		<query> Why get episode diagnosed by a doctor as a relapse of multiple sclerosis?
+		</query>
+		<narrative> Why should I get my episode diagnosed by a doctor as a relapse of my MS? </narrative>
+	</topic>
+	<topic>
+		<id>85</id>
+		<query> Relapsing remitting multiple sclerosis
+		</query>
+		<narrative> What does relapsing remitting MS refer to? </narrative>
+	</topic>
+	<topic>
+		<id>86</id>
+		<query> Secondary progressive multiple sclerosis
+		</query>
+		<narrative> What is secondary progressive MS? </narrative>
+	</topic>
+	<topic>
+		<id>92</id>
+		<query> causes of fatigue in MS
+		</query>
+		<narrative> What causes fatigue in MS? </narrative>
+	</topic>
+	<topic>
+		<id>93</id>
+		<query> Does multiple sclerosis relate to sleeping problems and forgetfulness in older people?
+		</query>
+		<narrative> My dad is 79 years old with MS. I seem to be forgetting many things and has trouble sleeping. His MS, age, or just being tired? </narrative>
+	</topic>
+	<topic>
+		<id>94</id>
+		<query> When will I start to feel better with multiple sclerosis?
+		</query>
+		<narrative> I've been turning to work to take my mind off things related to my MS. When will I start to feel better? </narrative>
+	</topic>
+	<topic>
+		<id>95</id>
+		<query> Reading problems in MS
+		</query>
+		<narrative> I am a 45-year-old with MS. I do not seem to be able to enjoy a good book anymore. What is going on?
+		</narrative>
+	</topic>
+	<topic>
+		<id>96</id>
+		<query> most efficient and sustainable diets
+		</query>
+		<narrative> I want to lose weight and therefore select a suitable diet. I want to find out about various available diets to be able to select one. Which one is the most efficient and sustainable one? </narrative>
+	</topic>
+	<topic>
+		<id>97</id>
+		<query> benefits of physical activity
+		</query>
+		<narrative> I am planning to exercise more frequently, and thus I am interested in general benefits of physical activity. </narrative>
+	</topic>
+	<topic>
+		<id>98</id>
+		<query> most common complications in pregnancy
+		</query>
+		<narrative> I am a young women who recently became pregnant, and now I want to know which complications can occur during pregnancy. What are the most common complications? </narrative>
+	</topic>
+	<topic>
+		<id>101</id>
+		<query>heavy flares swelling lymph nodes</query>
+		<narrative> so i went through a full body flare for the past 6-7 months was on antibiotics for a month....the flare has calmed down a bit now....so i have swollen lymph nodes in the groin neck and armpits so my Primary care dr is referring to a Hematologist....of course this gets your mind working over time! so i was just wondering if anyone with some heavy flares have experienced swelling with the lymph nodes?</narrative>
+	</topic>
+	<topic>
+		<id>102</id>
+		<query>randomly gotten eczema </query>
+		<narrative> I am a 22 year old female and just a few months ago I developed what began as a few red blemishes and progresses to a full blown rash on both perimeters of my face. I saw a dermatologist twice who looked at my face for around 4 seconds and prescribed pimecrolimus. It didn’t work. Then we tried protopic. I stuck with it for ten days before I decided to stop as it was making the rash worse. The rash is now spreading and my face is littered with inflammation and blotchy red and brown patches. The redness increases at night and the itchiness is unbearable even with ice. Never in my life have I ever experienced such a prolonged skin reaction and eczema. I’m at an absolute loss and I can hardly look in the mirror without bursting into tears. I’ve taken prescription allergy pills and Benadryl and they’ve done nothing. My doctor said we would try cortosteroid cream next but I am really hesitant to due to the risk of it coming back worse. I plan to take an allergy test to see if I’m exposing myself to something though I doubt it’s an allergy since allergy meds aren’t helping. I don’t know if it is the stress of quarantine that caused this but it’s hard to believe stress alone could wreck havoc on my face. Has anyone randomly gotten eczema at one point of their life like this? If so did it ever truly go away? The idea of having to deal with this on MY FACE no less forever is seriously depressing me. I’ve decided to stop using any products for a while not even cleanser or moisturizer and see if that helps. (I was using eczema colloidal oatmeal cream and it wasn’t helping ). Has anyone dealt with eczema on their face? If so did you end up using steroids cream or did something else help? Any advice would be appreciated.</narrative>
+	</topic>
+	<topic>
+		<id>105</id>
+		<query>wisdom tooth cuts gum pain </query>
+		<narrative> Hi all My wisdom tooth is currently cutting it's way through my bottom right gum the pain is intense throbbing aching jaw and weirdly a sore throat especially when swallowing. I just wonder if this is normal as I've had two wisdom tooth come through before with no pain at all. Thank you!</narrative>
+	</topic>
+	<topic>
+		<id>107</id>
+		<query>medication adhd anxiety </query>
+		<narrative> Hello folks I'm going to get screened for adult adhd tomorrow and will be given medication. However I want to avoid stimulants because they both gave me extreme anxiety as well as heart issues. Which med has been good if you comorbid with anxiety? I'm feeling nervous about treatment and I don't want any extreme side effects since I don't have health insurance. Thank you.</narrative>
+	</topic>
+	<topic>
+		<id>108</id>
+		<query>chronic diarrhea short-term memory sweating inability to regulate body temperature heart palpitations dysautonomia </query>
+		<narrative> I think I may have dysautonomia. I already have scleroderma so I wondered if there might be a tie-in. My symptoms range from digestive issues like chronic diarrhea to short-term memory to sweating inability to regulate body temperature and heart palpitations. Any vagus function. They don't always manifest at once - right now it's the hot sweating (feels like an adrenaline rush) and heart palpitations I hate. It comes on at any given time but usually when I'm just lounging rolling over in bed or (worst) right as I'm drifting off to sleep. I'll awake with a jolt in a panic attack sweating and heart thumping.
+		</narrative>
+	</topic>
+	<topic>
+		<id>109</id>
+		<query>ehlers danlos syndrome POTS nausea stomach pain </query>
+		<narrative> i’ve been diagnosed w ehlers danlos syndrome & POTS but recently i’ve been experiencing really bad nausea & stomach pain after i eat. my appetite has also been decreased. does anyone know what this could be or how to manage??</narrative>
+	</topic>
+	<topic>
+		<id>112</id>
+		<query>symptoms of asthma </query>
+		<narrative> How did you find out you have asthma? What were your symptoms? I know that it differs from person to person so your stories and opinions would greatly be appreciated.</narrative>
+	</topic>
+	<topic>
+		<id>113</id>
+		<query>asthma and covid </query>
+		<narrative> Hello! My boyfriend has covid and we live together. It has been 8 days since he started feeling symptoms. I am still feeling normal but am extremely scared of getting this virus because of my asthma. Can anyone tell me their experience being diagnosed with covid and also having mild/moderate asthma?</narrative>
+	</topic>
+	<topic>
+		<id>114</id>
+		<query>borderline personality disorder symptoms </query>
+		<narrative> I've wondered this for many years but I've never heard or found an answer. What exactly is the borderline? Is the borderline between normal and not normal? Is it the borderline between having a personality and not having a personality? What gives?!</narrative>
+	</topic>
+	<topic>
+		<id>116</id>
+		<query>outcome prostate cancer </query>
+		<narrative> My dad told me the news today that with some sort of high PSI chemical in his body the doctor told him it’s inevitable he’ll get prostate cancer in the next couple months or something. I haven’t done much research on it but the only words that stuck out were cancer. I’ve been pretty distraught for the last couple hours although he says it will be manageable. Anyone here know what the usual outcome of prostate cancer is? I love my dad to death and the thought of losing him kills me.</narrative>
+	</topic>
+	<topic>
+		<id>117</id>
+		<query>stage 4 metastatic lung cancer outcome </query>
+		<narrative> My husband is scheduled for his first radiation treatment on Monday. He was diagnosed with stage 4 metastatic lung cancer that had spread everywhere. Any ideas on what we can expect? I'm new to all this so any help is greatly appreciated</narrative>
+	</topic>
+	<topic>
+		<id>118</id>
+		<query>stage 4 triple negative breast cancer treatment </query>
+		<narrative> My grandma (66) has been diagnosed with stage 4 triple negative breast cancer. It has metastasized to several places including her brain. Just curious if anyone else knows someone in the same situation. I want all the good and bad answers. I’m fully aware of the outcomes of these type of situations but I wanted to see from other maybe what they’ve seen. Current treatment is chemotherapy immunotherapy and whole brain radiation</narrative>
+	</topic>
+	<topic>
+		<id>119</id>
+		<query>best pillow neck pain </query>
+		<narrative> **TL DR** What is the best neck pillow for chronic neck/upper back pain? *\*aside from cervical pillows- I have one of those already* Let me start by saying- I've had chronic upper back/neck pain for about six years now. I've done PT acupuncture trigger point injections dry needling epidurals cervical pillows etc. I'm currently trying a combo of chiro and sports massage which has helped a lot but I still am having flare ups of neck pain especially when I wake up. I have a nice tempurpedic pillow that I've had for about a year now but I'm thinking it's actually too big and puts my neck at a bad forward angle. Does anyone have suggestions for a good neck pillow that is soft/gives a little but firm enough to get good neck support?</narrative>
+	</topic>
+	<topic>
+		<id>121</id>
+		<query>numb fingers arthritis </query>
+		<narrative> I’ve recently developed arthritis in my right hand and I’ve just noticed that some of my fingers become numb at night. I’ve been waking up in the middle of the night and have lost feeling so I quickly get my fingers moving and they come back to life. It’s weird because I’m not necessarily cutting off circulation (my hands lay flat either to my side or under my pillow) I’m assuming it’s related to my arthritis because my left hand is fine and never goes numb at night. Does anyone else experience this?</narrative>
+	</topic>
+	<topic>
+		<id>123</id>
+		<query>hypothyroidism symptoms </query>
+		<narrative> So I'm 99% sure I have hypothyroidism. All the women on my mom's side of the family have it. In fact some have had really bad cases where their thyroid grows polyps that wrap around their esophagus and grows into their chest cavity. I'm concerned because I have all the same symptoms they do and they all had a really hard time getting a diagnosis. I think the reason they've been difficult to diagnose is because we start out with hyperthyroidism then around 30 thyroid function tanks but it drops within "normal" levels. However for us that's low. I've gotten tested before (even got tested by the same doctor that finally diagnosed my mom) and she was like "nope! You're normal!". I'm a few years older now and I'd kind of like to look into getting tested again because I'd like the chance to treat it before it becomes so advanced that the only option is to remove my thyroid. Has anyone else had difficulty getting a diagnosis? Did you have to ask your Dr. To test or look for something specific?</narrative>
+	</topic>
+	<topic>
+		<id>126</id>
+		<query>birth control suppression antral follicle count </query>
+		<narrative> So I've been on birth control taking only active pills for months now and I went in to a doctor's office to inquire about egg freezing. She seemed optimistic that my ultrasound would be very reassuring but instead she came away from the ultrasound deeply concerned. I did an AMH test and it came back 0.3 which was consistent with what was seen in the ultrasound. I'm terrified. Like...suicidal terrified. I don't have any underlying conditions and while I'm not young I'm not old either. I don't smoke and I'm not terribly overweight. I don't have insulin resistance and my reproductive organs looks good other than my ovaries. I'd been taking the combo pill to skip periods for months now. I don't even take the brown pills. When I first heard that you can skip periods and only have 2-3 a year when taking brown pills I started on them. The first time I tried to have a period on the brown pills nothing happened. No period. This was 2 years ago. I freaked out but they said I just respond strongly to the pills. So I went off of the pills completely and had 2-3 normal periods starting about 2 months later. Could the birth control be suppressing my antral follicle count and amh this much? Please help.</narrative>
+	</topic>
+	<topic>
+		<id>127</id>
+		<query>glasses for computer </query>
+		<narrative> So I have this problem where text on the computer screen sometime appear "shiny" and/or have a fuzzy "glow" to them. It's really annoying because it makes me lose focus very easily on the text that I'm reading when I'm trying to read a long book/manual. I can still make out the text fine but I was just wondering if there is a remedy to this. I did see an optometrist recently and she said my vision was very very good and that I don't need glasses.</narrative>
+	</topic>
+	<topic>
+		<id>130</id>
+		<query>neck and shoulder stretches </query>
+		<narrative> I'm aware that forward neck rounded shoulders and APT are somewhat linked. I don't know which exercises/stretches I should be doing on a daily basis that wouldn't take too much time</narrative>
+	</topic>
+	<topic>
+		<id>131</id>
+		<query>exercises for better posture </query>
+		<narrative> i think I've got some rounded shoulders going on. do you think I also have some APT? or is it normal for the spine to be curved a little bit? what exercises do you recommend for me to help correct my posture? https://imgur.com/a/pSxuAKX hopefully this serves as a beautiful "before pic" in a progress picture one day
+		</narrative>
+	</topic>
+	<topic>
+		<id>132</id>
+		<query>headpats scalp psoriasis </query>
+		<narrative> I really like receiving headpats but I have scalp psoriasis. Is it okay to get them?</narrative>
+	</topic>
+	<topic>
+		<id>133</id>
+		<query>psoriasis psoariatic arthritis, lump in armpit </query>
+		<narrative> Has anyone gotten an armpit lump having psoriasis and/or psoariatic arthritis??? I have a grape size one under my right armpit. I have done biologics for years and have no idea how long this lump has been there. Thanks.</narrative>
+	</topic>
+	<topic>
+		<id>141</id>
+		<query>sores in mouth herpes </query>
+		<narrative> I already posed this on another medical page but im reposting here. I've been getting these small red raised sores on the inside of my mouth. I think it's possible i have herpes to anyone thats familiar with this STD please message me and tell me what you think i have pictures.</narrative>
+	</topic>
+	<topic>
+		<id>146</id>
+		<query>canker sores syphilis </query>
+		<narrative> I had a regretful sexual encounter 5 months ago. Now I'm worried about it because during the past few days I've been getting these bumpy flare ups on my back and arms from time to time and I'm experience patchy hair loss which is freaking me .Granted I am someone who suffers from hyperthyroidism and I've run out of medicine for the time being but these are new symptoms regardless . I've also had a few canker sores come and go lately in the last two months but I've always had canker sores come up even before I was sexually so I'm not sure if that's just normal . Please reddit family , help me out on this one.</narrative>
+	</topic>
+	<topic>
+		<id>147</id>
+		<query>best supplements creatine </query>
+		<narrative> Are there any supplements that are proven to be safe that you would recommend beyond just whey protein powder? I’ve been reading a lot about creatine and l-citrulline/l-citrulline malate and wondering if anyone has any advice or could point me in the right direction. Thanks in advance</narrative>
+	</topic>
+	<topic>
+		<id>150</id>
+		<query>fish oil supplement dosage </query>
+		<narrative> If you could eat around 3 times per week fish do you still need to supplement fish oil daily or the EPA is "enough"? Where could I find some references on doses and course over time?</narrative>
+	</topic>
+</topics>

@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,116,outcome prostate cancer,0.782685071203362,0.8538669661202242,0.6736842105263153,colbert_v1,247,241
+qcred,116,outcome prostate cancer,1.0,0.964,0.964,colbert_v1,247,241
+qread,116,outcome prostate cancer,0.07768953695765952,0.060109429316497556,0.042499999999999996,colbert_v1,247,241

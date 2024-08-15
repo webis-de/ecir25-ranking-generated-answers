@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,101,heavy flares swelling lymph nodes,0.5617922699578747,0.8677741810845625,0.9342105263157879,colbert_v1,122,122
+qcred,101,heavy flares swelling lymph nodes,0.5617922699578747,0.7905202097683784,0.8749142240956775,colbert_v1,122,122
+qread,101,heavy flares swelling lymph nodes,0.472913148421356,0.3604960690962564,0.29272727272727284,colbert_v1,122,122

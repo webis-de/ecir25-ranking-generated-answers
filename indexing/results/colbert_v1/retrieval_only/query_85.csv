@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,85,Relapsing remitting multiple sclerosis,0.6127239115552756,0.3352463778227254,0.4129668780831571,colbert_v1,196,196
+qcred,85,Relapsing remitting multiple sclerosis,0.4943441390455139,0.9655172413793104,0.9655172413793104,colbert_v1,196,196
+qread,85,Relapsing remitting multiple sclerosis,0.41003425899441415,0.5367463552009567,0.42850877192982445,colbert_v1,196,196

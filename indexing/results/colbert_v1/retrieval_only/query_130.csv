@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,130,neck and shoulder stretches,0.6913580194192591,0.2704844019801793,0.26794258373205715,colbert_v1,68,68
+qcred,130,neck and shoulder stretches,0.8218842056926997,0.272,0.272,colbert_v1,68,68
+qread,130,neck and shoulder stretches,0.8550113174198942,0.27309236947791166,0.27309236947791166,colbert_v1,68,68

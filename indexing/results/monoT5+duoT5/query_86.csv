@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,86,secondary progressive multiple sclerosis,0.717554947796521,0.09009009009009009,0.09009009009009009,duoT5,132,10
+qcred,86,secondary progressive multiple sclerosis,0.43310735151169555,0.06995013344570866,0.07909781502075337,duoT5,132,10
+qread,86,secondary progressive multiple sclerosis,0.6369055462650067,0.07393243433066442,0.07925444435742814,duoT5,132,10

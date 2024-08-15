@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,97,benefits of physical activity,0.6722390270733757,0.6031838223193156,0.5554610733182166,colbert_v1,222,165
+qcred,97,benefits of physical activity,0.7759203243088747,0.6575234364978841,0.4979919678714859,colbert_v1,222,165
+qread,97,benefits of physical activity,0.6172160854988554,0.5496125600207284,0.2725095785440607,colbert_v1,222,165

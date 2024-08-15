@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,126,birth control suppression antral follicle count,0.1323251559018987,0.008333333333333333,0.031234567901234564,duoT5,116,10
+qcred,126,birth control suppression antral follicle count,0.900346883204941,0.04065040650406504,0.04065040650406504,duoT5,116,10
+qread,126,birth control suppression antral follicle count,0.6016194668763505,0.04032258064516129,0.04032258064516129,duoT5,116,10

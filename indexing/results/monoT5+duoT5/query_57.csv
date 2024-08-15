@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,57,multiple sclerosis stages phases,0.9633180389503199,0.045662100456621,0.045662100456621,duoT5,206,10
+qcred,57,multiple sclerosis stages phases,0.7314720869873436,0.04,0.04,duoT5,206,10
+qread,57,multiple sclerosis stages phases,0.9266360779006401,0.03507647323436797,0.032388663967611336,duoT5,206,10

@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,68,list of multiple sclerosis symptoms,0.6347567711927027,0.1670790538437597,0.17493271818531334,duoT5,220,10
+qcred,68,list of multiple sclerosis symptoms,0.8115558478722846,0.0315409736462368,0.037110514645816314,duoT5,220,10
+qread,68,list of multiple sclerosis symptoms,0.8349311752764399,0.058823529411764705,0.058823529411764705,duoT5,220,10

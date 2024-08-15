@@ -1,0 +1,4 @@
+judgement,qid,query,ndcg@10,map,bpref,name,num_docs,num_results
+qrels,77,How do menopause symptoms relate to multiple sclerosis symptoms?,0.0,0.011552769546955595,0.0,colbert_v1,241,240
+qcred,77,How do menopause symptoms relate to multiple sclerosis symptoms?,0.7078087372830465,0.9910607377102915,0.9275000000000039,colbert_v1,241,240
+qread,77,How do menopause symptoms relate to multiple sclerosis symptoms?,1.0,0.9633217941698912,0.9446693657219971,colbert_v1,241,240
